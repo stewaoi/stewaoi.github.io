@@ -10,10 +10,12 @@
   color:white;
 }
 
-.jumbotron .container h1, p1 {
+
+.jumbotron .container p1 {
   color:white;
   font-weight:bold;
   margin:auto;
+  text-align:center;
   
 }
 
@@ -21,9 +23,12 @@
   position:relative;
   padding:70px;
 }
+
+
 .jumbotron h1 {
   font-size:100px;
   font-family: 'Shift', sans-serif;
+  text-align:center;
 }
 
 .a:link {
