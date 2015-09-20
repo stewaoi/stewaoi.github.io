@@ -5,13 +5,14 @@
   }
 
 .jumbotrton nav ul, li {
-  display:inline
-  font-weight:bold
+  display:inline;
+  font-weight:bold;
+  color:white;
 }
 
 .jumbotron .container h1, p1 {
   color:white;
   font-weight:bold;
-  margin-left:200px;
+  margin-left:500px;
   margin-right:200px;
 }
