@@ -16,6 +16,10 @@
   margin-left:500px;
 }
 
+.jumbotron h1 {
+  font-size:48px;
+}
+
 .a:link {
   color:white;
   font-weight:bold;
