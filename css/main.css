@@ -4,13 +4,14 @@
   
   }
 
-.nav ul, li {
+.jumbotrton nav ul, li {
   display:inline
   font-weight:bold
 }
 
-.h1, p1 {
+.jumbotron .container h1, p1 {
   color:white;
   font-weight:bold;
-  margin:auto;
+  margin-left:200px;
+  margin-right:200px;
 }
