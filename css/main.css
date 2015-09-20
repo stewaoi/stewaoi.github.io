@@ -13,11 +13,17 @@
 .jumbotron .container h1, p1 {
   color:white;
   font-weight:bold;
-  margin-left:500px;
+  margin:auto;
+  
 }
 
+.jumbotron .container {
+  position:relative;
+  padding:70px;
+}
 .jumbotron h1 {
   font-size:100px;
+  font-family: 'Shift', sans-serif;
 }
 
 .a:link {
