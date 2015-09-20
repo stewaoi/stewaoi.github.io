@@ -4,7 +4,7 @@
   
   }
 
-.jumbotrton nav ul, li {
+.jumbotrton .nav ul, li {
   display:inline;
   font-weight:bold;
   color:white;
